@@ -1,6 +1,7 @@
 ## nj-tinyurl
 
 tinyurl.com API in node.js
+
 [![Build Status](https://secure.travis-ci.org/franciscallo/nj-tinyurl.png)](http://travis-ci.org/franciscallo/nj-tinyurl)
 
 ## Installation
