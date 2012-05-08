@@ -1,0 +1,21 @@
+{
+  "name": "nj-tinyurl",
+  "description": "A Tiny Url API library for NodeJS",
+  "version": "0.1.0",
+  "author": "Francis Callo<franciscallo@gmail.com>",
+  "contributors": [
+    { "name": "Francis Callo", "email": "franciscallo@gmail.com" }
+  ],
+  "main": "./tinyurl",
+  "repository": {
+    "type": "git",
+    "url": "http://github.com/franciscallo/nj-tinyurl.git"
+  },
+  "engines": { "node": ">= 0.4.0" },
+  "scripts": {
+    "test": "node_modules/.bin/nodeunit test"
+  },
+  "devDependencies": {
+    "nodeunit": ">=0.6.2"
+  }
+}
