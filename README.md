@@ -7,8 +7,8 @@ TODO
 
 ## Example
 ```js
-  var TinyUrl = require('tinyurl');
-  var shortenUrl = TinyUrl.shorten('http://www.google.ccom');
+  var TinyUrl = require('nj-tinyurl');
+  var shortenUrl = TinyUrl.shorten('http://www.google.com');
 ```
 
 ## License

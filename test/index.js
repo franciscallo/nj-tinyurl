@@ -1,4 +1,4 @@
-var TinyUrl = require('../tinyurl');
+var TinyUrl = require('../nj-tinyurl');
 
 module.exports = {
   'shorten url': function(test) {

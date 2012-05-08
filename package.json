@@ -6,7 +6,7 @@
   "contributors": [
     { "name": "Francis Callo", "email": "franciscallo@gmail.com" }
   ],
-  "main": "./tinyurl",
+  "main": "./nj-tinyurl",
   "repository": {
     "type": "git",
     "url": "http://github.com/franciscallo/nj-tinyurl.git"
