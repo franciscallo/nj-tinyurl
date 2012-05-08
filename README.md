@@ -4,7 +4,7 @@ tinyurl.com API in node.js
 
 ## Installation
 
-npm install nj-tinyurl
+`npm install nj-tinyurl`
 
 ## Example
 ```js
