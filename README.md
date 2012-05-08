@@ -3,12 +3,16 @@
 tinyurl.com API in node.js
 
 ## Installation
-TODO
+
+npm install nj-tinyurl
 
 ## Example
 ```js
-  var TinyUrl = require('nj-tinyurl');
-  var shortenUrl = TinyUrl.shorten('http://www.google.com');
+var TinyUrl = require('nj-tinyurl');
+var shortenUrl = TinyUrl.shorten('http://www.google.com', function(err, url) {
+  console.log(url)
+});
+
 ```
 
 ## License
