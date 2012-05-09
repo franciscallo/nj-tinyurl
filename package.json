@@ -1,10 +1,16 @@
 {
   "name": "nj-tinyurl",
-  "description": "A Tiny Url API library for NodeJS",
+  "description": "A Tiny Url API library for node.js",
   "version": "0.1.0",
   "author": "Francis Callo<franciscallo@gmail.com>",
   "contributors": [
     { "name": "Francis Callo", "email": "franciscallo@gmail.com" }
+  ],
+  "keywords": [
+    "tinyurl",
+    "url",
+    "shortener",
+    "util"
   ],
   "main": "./nj-tinyurl",
   "repository": {
@@ -17,5 +23,7 @@
   },
   "devDependencies": {
     "nodeunit": ">=0.6.2"
-  }
+  },
+  "license" : "MIT"
 }
+
